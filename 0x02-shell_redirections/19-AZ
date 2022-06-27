@@ -1,2 +1,2 @@
 #!/bin/bash
-tr $1 AaCc ZzEe
+tr $1 Ac Ze

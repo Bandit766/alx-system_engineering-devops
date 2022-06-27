@@ -1,2 +1,2 @@
 #!/bin/bash
-tr $1 'a' 'z' | tr 'c' 'e'
+tr $1 AaCc ZzEe
